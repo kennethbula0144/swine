@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv-1/
+node_modules/
+__pycache__/
+*.py[cod]
+camera_log.csv
+/aitrain/PigAI_Webapp_Integration/models/identity_profiles/
+/aitrain/PigAI_Webapp_Integration/debug_detections/
+/aitrain/PigAI_Webapp_Integration/models/pig_model.before_four_pig_training_20260930.pt

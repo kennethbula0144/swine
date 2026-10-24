@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "smartswine-dashboard dev",
+			"type": "shell",
+			"command": "cd \"c:\\Users\\LENOVO\\OneDrive\\Desktop\\smartswine\\smartswine-dashboard\"; npm run dev -- --host 0.0.0.0",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "smartswine-dashboard install",
+			"type": "shell",
+			"command": "cd /d \"c:\\Users\\LENOVO\\OneDrive\\Desktop\\smartswine\\smartswine-dashboard\"; npm install",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

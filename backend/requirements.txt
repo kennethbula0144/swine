@@ -1,0 +1,14 @@
+fastapi==0.115.0
+uvicorn[standard]
+python-multipart==0.0.9
+httpx
+python-dotenv
+pandas
+pillow
+numpy
+opencv-python>=4.8
+joblib
+scikit-learn
+torch==2.14.0
+torchvision==0.29.0
+ultralytics
